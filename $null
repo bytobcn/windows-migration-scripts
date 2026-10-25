@@ -1,0 +1,8 @@
+Add-Content : No se encuentra ningún parámetro de posición que acepte el argumento '
+'.
+En línea: 1 Carácter: 1
++ Add-Content -Path 'E:\Backup_Migracion\bytob\ubicaciones_red.txt' -Va ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-Content], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Microsoft.PowerShell.Commands.AddContentCommand
+ 

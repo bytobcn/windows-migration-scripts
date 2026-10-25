@@ -1,0 +1,37 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20261025165801
+Nombre de usuario: LAPTOP-KEPECC9G\bytob
+Usuario RunAs: LAPTOP-KEPECC9G\bytob
+Nombre de la configuración: 
+Máquina: LAPTOP-KEPECC9G (Microsoft Windows NT 10.0.26300.0)
+Aplicación host: powershell -NoProfile -ExecutionPolicy Bypass -Command Start-Transcript -Path 'log_bytob_20261025_165801.txt' -Append | Out-Null;  & cmd.exe /c '"C:\Users\bytob\OneDrive\Documentos\VSCODE\Copia_usuario\copia2.bat" --LOG-ACTIVE-- "log_bytob_20261025_165801.txt"';  Stop-Transcript | Out-Null
+Id. de proceso: 28224
+PSVersion: 5.1.26100.9711
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9711
+BuildVersion: 10.0.26100.9711
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Microsoft XPS Document Writer     Microsoft XPS Document Writer v4    PORTPROMPT:       Local/USB -         -               False
+Microsoft Print to PDF            Microsoft Print To PDF              PORTPROMPT:       Local/USB -         -               False
+HP OfficeJet 5200 series (Copy 1) HP PCL3 A-size Printer Class Driver USB002            Local/USB -         -               False
+HP OfficeJet 5200 series          HP OfficeJet 5200 series PCL-3      USB002            Local/USB -         -                True
+Fax                               Microsoft Shared Fax Driver         SHRFAX:           Local/USB -         -               False
+
+
+
+========================================================
+Proceso de bytob [SIMULACION (No se copiaran archivos] finalizado con éxito.
+Los archivos de configuración se guardaron en:
+E:\Backup_Migracion\bytob
+Archivo de log guardado como: log_bytob_20261025_165801.txt
+========================================================
+Presione una tecla para continuar . . .
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20261025165831
+**********************
